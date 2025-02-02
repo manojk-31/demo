@@ -12,7 +12,7 @@ public class Nullpointer{
         }
 
         
-        System.out.println("\nDemonstrating ArrayIndexOutOfBoundsException");
+        System.out.println("ArrayIndexOutOfBoundsException");
         try {
             int[] arr = new int[3];
             System.out.println(arr[5]); 
